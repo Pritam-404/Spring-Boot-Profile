@@ -1,0 +1,5 @@
+payment:
+  mode-name: Production phase
+  url: http://server.company.user/payment/production
+  environment: Production
+  status: InProgress

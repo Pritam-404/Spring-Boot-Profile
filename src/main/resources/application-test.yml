@@ -1,0 +1,5 @@
+payment:
+  mode-name: Testing phase
+  url: http://server.company/payment/testing
+  environment: Testing
+  status: Test

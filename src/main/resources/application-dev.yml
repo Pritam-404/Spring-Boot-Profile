@@ -1,0 +1,5 @@
+payment:
+  mode-name: Development phase
+  url: http://localhost:8081/payment/development
+  environment: Development
+  status: Mock
